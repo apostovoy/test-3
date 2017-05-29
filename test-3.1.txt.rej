@@ -1,0 +1,8 @@
+diff a/test-3.1.txt b/test-3.1.txt	(rejected hunks)
+@@ -1 +0,3 @@
+-it is text file number 3.1
+\ No newline at end of file
++it is text file number 3.1
++
+++2
+\ No newline at end of file
